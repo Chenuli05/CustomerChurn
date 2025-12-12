@@ -1,2 +1,2 @@
 # CustomerChurn
-Machine Learning CW
+Machine Learning CW for a binary classification problem
